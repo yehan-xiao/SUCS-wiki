@@ -28,9 +28,9 @@ The potential application of this approach is not limited to a particular region
 
 ### General
 
-* [Requirement](general/requirement)
-* [Repository Organisation and Etiquette](general/repository_organisation_and_etiquette)
-* [Installation and Running](general/installation_and_running)
-* [User Guide](general/user_guide)
-* [System Constraints](general/system_constraints)
+* [Requirement](general/requirement.md)
+* [Repository Organisation and Etiquette](general/repository_organisation_and_etiquette.md)
+* [Installation and Running](general/installation_and_running.md)
+* [User Guide](general/user_guide.md)
+* [System Constraints](general/system_constraints.md)
 * [Detection model](https://github.com/yehan-xiao/utility-detection-tool.git)
