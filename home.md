@@ -28,9 +28,9 @@ The potential application of this approach is not limited to a particular region
 
 ### General
 
-* [Requirement](general/requirement.md)
-* [Repository Organisation and Etiquette](general/repository_organisation_and_etiquette.md)
-* [Installation and Running](general/installation_and_running.md)
-* [User Guide](general/user_guide.md)
-* [System Constraints](general/system_constraints.md)
+* [Requirement](https://github.com/yehan-xiao/SUCS-wiki/blob/master/general/requirement.md)
+* [Repository Organisation and Etiquette](https://github.com/yehan-xiao/SUCS-wiki/blob/master/general/repository_organisation_and_etiquette.md)
+* [Installation and Running](https://github.com/yehan-xiao/SUCS-wiki/blob/master/general/installation_and_running.md)
+* [User Guide](https://github.com/yehan-xiao/SUCS-wiki/blob/master/general/user_guide.md)
+* [System Constraints](ghttps://github.com/yehan-xiao/SUCS-wiki/blob/master/general/system_constraints.md)
 * [Detection model](https://github.com/yehan-xiao/utility-detection-tool.git)
